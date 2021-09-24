@@ -1,0 +1,33 @@
+html
+{
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+}
+#txt
+{
+     color: rgb(0, 0, 0);
+     background-color: rgb(116, 116, 116);
+     width: 500px;
+     margin: auto;
+}
+.son
+{
+     line-height: 0.5;
+     color: azure;
+}
+.son:link.com 
+{
+     color: azure;
+}
+.son:active 
+{
+     color: azure;
+}
+.son:visited 
+{
+     color: azure;
+}
+.son:hover
+{
+     color: azure;
+}
